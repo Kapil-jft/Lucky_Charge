@@ -1,0 +1,19 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: LuckyCharge_V2.PcbDoc   2018-06-24  7:48:30 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Side to Bottom Side
+ASCII RoundHoles File : LuckyCharge_V2-RoundHoles.TXT
+ASCII SlotHoles File : LuckyCharge_V2-SlotHoles.TXT
+EIA File   : LuckyCharge_V2.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.3048mm (12mil)         Round          190              385.96 mm (15.20 Inch)
+T2        0.6mm (23.622mil)        Slot           2                27.43 mm (1.08 Inch)
+T3        0.92mm (36.221mil)       Round          4                7.00 mm (0.28 Inch)
+T4        0.991mm (39.016mil)      Round          3         NPTH   9.72 mm (0.38 Inch)
+---------------------------------------------------------------------------
+Totals                                            199              430.11 mm (16.93 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:00
